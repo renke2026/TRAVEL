@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the TRAVEL manuscript when using this research code."
+type: software
+title: "TRAVEL: Travel-preference Representation via Activation VEctors in Language models"
+authors:
+  - family-names: He
+    given-names: Xiangyu
+  - family-names: Gu
+    given-names: Ziyuan
+  - family-names: Liu
+    given-names: Zhiyuan
+license: MIT
+preferred-citation:
+  type: unpublished
+  title: "TRAVEL: Travel-preference Representation via Activation VEctors in Language models"
+  authors:
+    - family-names: He
+      given-names: Xiangyu
+    - family-names: Gu
+      given-names: Ziyuan
+    - family-names: Liu
+      given-names: Zhiyuan
+  year: 2026
+  notes: "Manuscript prepared for submission."

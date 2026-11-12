@@ -1,0 +1,19 @@
+{
+  "python": "3.11.2 (tags/v3.11.2:878ead1, Feb  7 2023, 16:38:35) [MSC v.1934 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "packages": {
+    "torch": "2.7.1+cu128",
+    "transformers": "5.13.1",
+    "accelerate": "1.14.0",
+    "bitsandbytes": "0.49.2",
+    "peft": "0.21.2",
+    "numpy": "2.4.6",
+    "openai": "2.45.0",
+    "safetensors": "0.8.0",
+    "tokenizers": "0.22.2",
+    "matplotlib": "3.11.2"
+  },
+  "gpu": "NVIDIA GeForce RTX 5060 Ti",
+  "captured_at": 1794250532.19513,
+  "note": "Experimental Python runtime; document rendering uses the separately bundled document runtime."
+}

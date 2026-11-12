@@ -1,0 +1,2 @@
+# CPU-only numerical reproduction; no model weights or API key required.
+numpy==2.4.6
